@@ -1,7 +1,7 @@
 ## Installation
 
 ### Requirements
-* Python 3.5+
+* Python 3.6+
 * Cython
 * PyTorch 1.1+
 * torchvision 0.3.0+
